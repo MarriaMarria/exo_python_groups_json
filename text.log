@@ -1,0 +1,592 @@
+2021-01-12 16:31:33,828:INFO:GROUP #1 : ['Maria', ' Tiphaine']
+2021-01-12 16:31:33,828:INFO:GROUP #2 : [' Amin\n', ' Youssef']
+2021-01-12 16:31:33,828:INFO:GROUP #3 : [' Rayan', ' Thibault']
+2021-01-12 16:31:33,828:INFO:GROUP #4 : [' Jojo', ' Jordan']
+2021-01-12 16:31:33,828:INFO:GROUP #5 : [' Farouk', ' Carina']
+2021-01-12 16:31:33,828:INFO:GROUP #6 : [' Souad', ' Maxime']
+2021-01-12 16:31:33,828:INFO:GROUP #7 : [' Marwa']
+2021-01-12 16:35:48,237:INFO:getting text file
+2021-01-12 16:35:48,237:INFO:getting a list
+2021-01-12 16:35:48,238:INFO:GROUP #1 : [' Souad', ' Youssef']
+2021-01-12 16:35:48,238:INFO:GROUP #2 : [' Carina', ' Maxime']
+2021-01-12 16:35:48,238:INFO:GROUP #3 : [' Jojo', ' Jordan']
+2021-01-12 16:35:48,238:INFO:GROUP #4 : [' Tiphaine', ' Amin\n']
+2021-01-12 16:35:48,238:INFO:GROUP #5 : ['Maria', ' Marwa']
+2021-01-12 16:35:48,238:INFO:GROUP #6 : [' Thibault', ' Rayan']
+2021-01-12 16:35:48,238:INFO:GROUP #7 : [' Farouk']
+2021-01-13 12:07:00,999:INFO:getting text file
+2021-01-13 12:07:01,000:INFO:getting a list
+2021-01-13 12:07:01,000:INFO:GROUP #1 : ['Maria', ' Youssef']
+2021-01-13 12:07:01,001:INFO:GROUP #2 : [' Jordan', ' Amin\n']
+2021-01-13 12:07:01,001:INFO:GROUP #3 : [' Maxime', ' Tiphaine']
+2021-01-13 12:07:01,001:INFO:GROUP #4 : [' Marwa', ' Thibault']
+2021-01-13 12:07:01,001:INFO:GROUP #5 : [' Carina', ' Jojo']
+2021-01-13 12:07:01,001:INFO:GROUP #6 : [' Farouk', ' Souad']
+2021-01-13 12:07:01,001:INFO:GROUP #7 : [' Rayan']
+2021-01-13 12:10:14,042:INFO:getting text file
+2021-01-13 12:10:14,042:INFO:getting a list
+2021-01-13 12:10:14,043:INFO:GROUP #1 : [' Farouk', ' Jojo']
+2021-01-13 12:10:14,043:INFO:GROUP #2 : ['Maria', ' Youssef']
+2021-01-13 12:10:14,043:INFO:GROUP #3 : [' Rayan', ' Jordan']
+2021-01-13 12:10:14,043:INFO:GROUP #4 : [' Amin\n', ' Souad']
+2021-01-13 12:10:14,043:INFO:GROUP #5 : [' Maxime', ' Carina']
+2021-01-13 12:10:14,043:INFO:GROUP #6 : [' Tiphaine', ' Thibault']
+2021-01-13 12:10:14,043:INFO:GROUP #7 : [' Marwa']
+2021-01-13 12:25:31,716:INFO:getting text file
+2021-01-13 12:25:31,718:INFO:getting a list
+2021-01-13 12:25:31,719:INFO:GROUP #1 : [' Jordan', ' Youssef']
+2021-01-13 12:25:31,719:INFO:GROUP #2 : [' Thibault', ' Tiphaine']
+INFO:root:getting text file: start
+INFO:root:getting text file: end
+INFO:root:getting a list: start
+INFO:root:getting a list: end
+INFO:root:GROUP #1 : [' Jojo', ' Maxime']
+INFO:root:GROUP #2 : ['Maria', ' Marwa']
+2021-01-15 11:52:53,277:INFO:getting text file: start
+2021-01-15 11:52:53,277:INFO:getting text file: end
+2021-01-15 11:52:53,277:INFO:getting a list: start
+2021-01-15 11:52:53,277:INFO:getting a list: end
+2021-01-15 11:52:53,277:INFO:GROUP #1 : [' Carina', ' Jordan']
+2021-01-15 11:52:53,278:INFO:GROUP #2 : [' Tiphaine', ' Amin\n']
+2021-01-15 11:54:16,079:INFO:getting text file: start
+2021-01-15 11:54:16,079:INFO:getting text file: end
+2021-01-15 11:54:16,079:INFO:getting a list: start
+2021-01-15 11:54:16,079:INFO:getting a list: end
+2021-01-15 11:54:16,079:INFO:GROUP #1 : [' Maxime', ' Farouk']
+2021-01-15 11:54:16,080:INFO:GROUP #2 : [' Souad', ' Jordan']
+2021-01-20 10:25:58,585:INFO:getting text file: start
+2021-01-20 10:25:58,585:INFO:getting text file: end
+2021-01-20 10:25:58,585:INFO:getting a list: start
+2021-01-20 10:25:58,585:INFO:getting a list: end
+2021-01-20 10:25:58,585:INFO:loop to divide ppl in groups: start
+2021-01-20 10:25:58,590:INFO:GROUP #1 : [' Amin\n', ' Jordan']
+2021-01-20 10:25:58,590:INFO:loop to divide ppl in groups: end
+2021-01-20 10:25:58,590:INFO:GROUP #2 : [' Maxime', ' Carina']
+2021-01-20 10:28:18,493:INFO:getting text file: start
+2021-01-20 10:28:18,494:INFO:getting text file: end
+2021-01-20 10:28:18,494:INFO:getting a list: start
+2021-01-20 10:28:18,494:INFO:getting a list: end
+2021-01-20 10:28:18,494:INFO:loop to divide ppl in groups: start
+2021-01-20 10:28:18,494:INFO:GROUP #1 : [' Amin\n', 'Maria']
+2021-01-20 10:28:18,494:INFO:loop to divide ppl in groups: end
+2021-01-20 10:28:18,495:INFO:GROUP #2 : [' Tiphaine', ' Maxime']
+2021-01-20 10:28:28,228:INFO:getting text file: start
+2021-01-20 10:28:28,229:INFO:getting text file: end
+2021-01-20 10:28:28,229:INFO:getting a list: start
+2021-01-20 10:28:28,229:INFO:getting a list: end
+2021-01-20 10:28:28,229:INFO:loop to divide ppl in groups: start
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Marwa', 'Maria']
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Amin\n', ' Thibault']
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Maxime', ' Farouk']
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Rayan', ' Tiphaine']
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Souad', ' Jordan']
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Carina', ' Youssef']
+2021-01-20 10:28:28,229:INFO:GROUP #1 : [' Jojo']
+2021-01-20 10:28:28,229:INFO:loop to divide ppl in groups: end
+2021-01-20 10:28:39,711:INFO:getting text file: start
+2021-01-20 10:28:39,713:INFO:getting text file: end
+2021-01-20 10:28:39,713:INFO:getting a list: start
+2021-01-20 10:28:39,713:INFO:getting a list: end
+2021-01-20 10:28:39,713:INFO:loop to divide ppl in groups: start
+2021-01-20 10:28:39,713:INFO:GROUP #1 : [' Jojo', ' Maxime']
+2021-01-20 10:28:39,713:INFO:loop to divide ppl in groups: end
+2021-01-20 10:30:37,207:INFO:getting text file: start
+2021-01-20 10:30:37,207:INFO:getting text file: end
+2021-01-20 10:30:37,207:INFO:getting a list: start
+2021-01-20 10:30:37,207:INFO:getting a list: end
+2021-01-20 10:30:37,207:INFO:loop to divide ppl in groups: start
+2021-01-20 10:30:37,207:INFO:GROUP #1 : [' Youssef', ' Jordan']
+2021-01-20 10:30:37,208:INFO:loop to divide ppl in groups: end
+2021-01-20 10:30:37,208:INFO:GROUP #2 : [' Souad', ' Amin\n']
+2021-01-20 10:31:20,657:INFO:getting text file: start
+2021-01-20 10:31:20,658:INFO:getting text file: end
+2021-01-20 10:31:20,658:INFO:getting a list: start
+2021-01-20 10:31:20,658:INFO:getting a list: end
+2021-01-20 10:31:20,658:INFO:loop to divide ppl in groups: start
+2021-01-20 10:31:20,658:INFO:GROUP #1 : [' Souad', ' Farouk']
+2021-01-20 10:31:20,658:INFO:loop to divide ppl in groups: end
+2021-01-20 10:31:20,659:INFO:GROUP #2 : [' Jordan', ' Marwa']
+2021-01-20 10:34:03,585:INFO:getting text file: start
+2021-01-20 10:34:03,585:INFO:getting text file: end
+2021-01-20 10:34:03,585:INFO:getting a list: start
+2021-01-20 10:34:03,585:INFO:getting a list: end
+2021-01-20 10:34:03,585:INFO:loop to divide ppl in groups: start
+2021-01-20 10:34:03,587:INFO:GROUP #1 : [' Jojo', ' Tiphaine']
+2021-01-20 10:34:03,587:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:03,588:INFO:GROUP #2 : [' Maxime', ' Amin\n']
+2021-01-20 10:34:03,589:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:03,589:INFO:GROUP #3 : [' Thibault', ' Marwa']
+2021-01-20 10:34:03,589:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:03,590:INFO:GROUP #4 : [' Souad', ' Youssef']
+2021-01-20 10:34:03,590:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:03,590:INFO:GROUP #5 : [' Rayan', 'Maria']
+2021-01-20 10:34:03,591:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:03,591:INFO:GROUP #6 : [' Farouk', ' Carina']
+2021-01-20 10:34:03,591:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:03,592:INFO:GROUP #7 : [' Jordan']
+2021-01-20 10:34:03,592:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:38,218:INFO:getting text file: start
+2021-01-20 10:34:38,219:INFO:getting text file: end
+2021-01-20 10:34:38,219:INFO:getting a list: start
+2021-01-20 10:34:38,219:INFO:getting a list: end
+2021-01-20 10:34:38,219:INFO:loop to divide ppl in groups: start
+2021-01-20 10:34:38,220:INFO:GROUP #1 : [' Amin\n', ' Thibault']
+2021-01-20 10:34:38,220:INFO:loop to divide ppl in groups: end
+2021-01-20 10:34:38,220:INFO:GROUP #2 : ['Maria', ' Souad']
+2021-01-20 10:35:02,947:INFO:getting text file: start
+2021-01-20 10:35:02,948:INFO:getting text file: end
+2021-01-20 10:35:02,948:INFO:getting a list: start
+2021-01-20 10:35:02,948:INFO:getting a list: end
+2021-01-20 10:35:02,948:INFO:loop to divide ppl in groups: start
+2021-01-20 10:35:02,948:INFO:GROUP #1 : [' Tiphaine', ' Maxime']
+2021-01-20 10:35:02,948:INFO:loop to divide ppl in groups: end
+2021-01-20 10:35:02,948:INFO:GROUP #2 : [' Souad', ' Farouk']
+2021-01-20 10:35:18,296:INFO:getting text file: start
+2021-01-20 10:35:18,296:INFO:getting text file: end
+2021-01-20 10:35:18,296:INFO:getting a list: start
+2021-01-20 10:35:18,296:INFO:getting a list: end
+2021-01-20 10:35:18,296:INFO:loop to divide ppl in groups: start
+2021-01-20 10:35:18,296:INFO:GROUP #1 : [' Souad', ' Youssef']
+2021-01-20 10:35:38,447:INFO:getting text file: start
+2021-01-20 10:35:38,447:INFO:getting text file: end
+2021-01-20 10:35:38,448:INFO:getting a list: start
+2021-01-20 10:35:38,448:INFO:getting a list: end
+2021-01-20 10:35:38,448:INFO:loop to divide ppl in groups: start
+2021-01-20 10:35:38,448:INFO:GROUP #1 : [' Jojo', ' Carina']
+2021-01-20 10:35:38,448:INFO:loop to divide ppl in groups: end
+2021-01-20 10:35:38,448:INFO:GROUP #2 : [' Youssef', 'Maria']
+2021-01-20 10:35:46,585:INFO:getting text file: start
+2021-01-20 10:35:46,586:INFO:getting text file: end
+2021-01-20 10:35:46,586:INFO:getting a list: start
+2021-01-20 10:35:46,586:INFO:getting a list: end
+2021-01-20 10:35:46,586:INFO:loop to divide ppl in groups: start
+2021-01-20 10:35:46,586:INFO:GROUP #1 : [' Tiphaine', ' Jojo']
+2021-01-20 10:35:46,586:INFO:loop to divide ppl in groups: end
+2021-01-20 10:35:46,586:INFO:GROUP #2 : [' Souad', ' Jordan']
+2021-01-20 10:36:48,860:INFO:getting text file: start
+2021-01-20 10:36:48,860:INFO:getting text file: end
+2021-01-20 10:36:48,860:INFO:getting a list: start
+2021-01-20 10:36:48,861:INFO:getting a list: end
+2021-01-20 10:36:48,861:INFO:loop to divide ppl in groups: start
+2021-01-20 10:36:48,861:INFO:GROUP #1 : [' Jojo', ' Marwa']
+2021-01-20 10:36:48,861:INFO:GROUP #2 : [' Souad', ' Carina']
+2021-01-20 10:36:48,861:INFO:GROUP #3 : ['Maria', ' Maxime']
+2021-01-20 10:36:48,861:INFO:GROUP #4 : [' Amin\n', ' Thibault']
+2021-01-20 10:36:48,861:INFO:GROUP #5 : [' Jordan', ' Rayan']
+2021-01-20 10:36:48,861:INFO:GROUP #6 : [' Tiphaine', ' Youssef']
+2021-01-20 10:36:48,861:INFO:GROUP #7 : [' Farouk']
+2021-01-20 10:36:48,861:INFO:loop to divide ppl in groups: end
+2021-01-20 10:37:30,250:INFO:getting text file: start
+2021-01-20 10:37:30,250:INFO:getting text file: end
+2021-01-20 10:37:30,250:INFO:getting a list: start
+2021-01-20 10:37:30,250:INFO:getting a list: end
+2021-01-20 10:37:30,250:INFO:loop to divide ppl in groups: start
+2021-01-20 10:37:30,251:INFO:GROUP #1 : [' Maxime', ' Amin\n']
+2021-01-20 10:37:30,251:INFO:GROUP #2 : [' Youssef', ' Thibault']
+2021-01-20 10:37:30,251:INFO:GROUP #3 : [' Souad', ' Rayan']
+2021-01-20 10:37:30,251:INFO:GROUP #4 : [' Jojo', ' Carina']
+2021-01-20 10:37:30,251:INFO:GROUP #5 : [' Tiphaine', 'Maria']
+2021-01-20 10:37:30,251:INFO:GROUP #6 : [' Jordan', ' Marwa']
+2021-01-20 10:37:30,251:INFO:GROUP #7 : [' Farouk']
+2021-01-20 10:37:30,251:INFO:loop to divide ppl in groups: end
+2021-01-20 10:43:54,407:INFO:getting text file: start
+2021-01-20 10:43:54,407:INFO:getting text file: end
+2021-01-20 10:43:54,407:INFO:getting a list: start
+2021-01-20 10:43:54,407:INFO:getting a list: end
+2021-01-20 10:43:54,407:INFO:loop to divide ppl in groups: start
+2021-01-20 10:43:54,408:INFO:GROUP #1 : ['Maria', ' Maxime']
+2021-01-20 10:43:54,408:INFO:GROUP #2 : [' Farouk', ' Jojo']
+2021-01-20 10:43:54,408:INFO:GROUP #3 : [' Marwa', ' Rayan']
+2021-01-20 10:43:54,408:INFO:GROUP #4 : [' Tiphaine', ' Souad']
+2021-01-20 10:43:54,408:INFO:GROUP #5 : [' Youssef', ' Carina']
+2021-01-20 10:43:54,408:INFO:GROUP #6 : [' Jordan', ' Amin\n']
+2021-01-20 10:43:54,408:INFO:GROUP #7 : [' Thibault']
+2021-01-20 10:43:54,408:INFO:loop to divide ppl in groups: end
+2021-01-20 10:44:20,934:INFO:getting text file: start
+2021-01-20 10:44:20,934:INFO:getting text file: end
+2021-01-20 10:44:20,935:INFO:getting a list: start
+2021-01-20 10:44:20,935:INFO:getting a list: end
+2021-01-20 10:44:20,935:INFO:loop to divide ppl in groups: start
+2021-01-20 10:44:20,935:INFO:GROUP #1 : [' Souad', 'Maria']
+2021-01-20 10:44:20,935:INFO:GROUP #2 : [' Jordan', ' Youssef']
+2021-01-20 10:44:20,935:INFO:GROUP #3 : [' Maxime', ' Jojo']
+2021-01-20 10:44:20,935:INFO:GROUP #4 : [' Rayan', ' Amin\n']
+2021-01-20 10:44:20,935:INFO:GROUP #5 : [' Carina', ' Farouk']
+2021-01-20 10:44:20,935:INFO:GROUP #6 : [' Thibault', ' Marwa']
+2021-01-20 10:44:20,935:INFO:GROUP #7 : [' Tiphaine']
+2021-01-20 10:44:20,935:INFO:loop to divide ppl in groups: end
+2021-01-20 10:58:27,333:INFO:getting text file: start
+2021-01-20 10:58:27,337:INFO:getting text file: end
+2021-01-20 10:58:27,337:INFO:getting a list: start
+2021-01-20 10:58:27,337:INFO:getting a list: end
+2021-01-20 10:58:27,337:INFO:loop to divide ppl in groups: start
+2021-01-20 10:58:27,337:INFO:GROUP #1 : [' Jordan', ' Maxime']
+2021-01-20 10:58:27,337:INFO:GROUP #2 : [' Amin\n', ' Souad']
+2021-01-20 10:58:27,337:INFO:GROUP #3 : [' Jojo', ' Carina']
+2021-01-20 10:58:27,337:INFO:GROUP #4 : ['Maria', ' Thibault']
+2021-01-20 10:58:27,337:INFO:GROUP #5 : [' Youssef', ' Rayan']
+2021-01-20 10:58:27,337:INFO:GROUP #6 : [' Tiphaine', ' Marwa']
+2021-01-20 10:58:27,338:INFO:GROUP #7 : [' Farouk']
+2021-01-20 10:58:37,576:INFO:getting text file: start
+2021-01-20 10:58:37,576:INFO:getting text file: end
+2021-01-20 10:58:37,576:INFO:getting a list: start
+2021-01-20 10:58:37,576:INFO:getting a list: end
+2021-01-20 10:58:37,576:INFO:loop to divide ppl in groups: start
+2021-01-20 10:58:37,576:INFO:GROUP #1 : [' Thibault', ' Amin\n']
+2021-01-20 10:58:37,576:INFO:GROUP #2 : [' Maxime', ' Farouk']
+2021-01-20 10:58:37,576:INFO:GROUP #3 : [' Tiphaine', ' Carina']
+2021-01-20 10:58:37,576:INFO:GROUP #4 : [' Jordan', ' Rayan']
+2021-01-20 10:58:37,576:INFO:GROUP #5 : [' Jojo', ' Marwa']
+2021-01-20 10:58:37,576:INFO:GROUP #6 : ['Maria', ' Youssef']
+2021-01-20 10:58:37,576:INFO:GROUP #7 : [' Souad']
+2021-01-20 10:58:55,599:INFO:getting text file: start
+2021-01-20 10:58:55,599:INFO:getting text file: end
+2021-01-20 10:58:55,599:INFO:getting a list: start
+2021-01-20 10:58:55,599:INFO:getting a list: end
+2021-01-20 10:58:55,599:INFO:loop to divide ppl in groups: start
+2021-01-20 10:58:55,599:INFO:GROUP #1 : [' Youssef', ' Farouk']
+2021-01-20 10:58:55,599:INFO:GROUP #2 : [' Jojo', ' Rayan']
+2021-01-20 10:58:55,599:INFO:GROUP #3 : [' Carina', 'Maria']
+2021-01-20 10:58:55,599:INFO:GROUP #4 : [' Thibault', ' Jordan']
+2021-01-20 10:58:55,600:INFO:GROUP #5 : [' Amin\n', ' Marwa']
+2021-01-20 10:58:55,600:INFO:GROUP #6 : [' Maxime', ' Souad']
+2021-01-20 10:58:55,600:INFO:GROUP #7 : [' Tiphaine']
+2021-01-20 11:02:33,287:INFO:getting text file: start
+2021-01-20 11:02:33,287:INFO:getting text file: end
+2021-01-20 11:02:33,287:INFO:getting a list: start
+2021-01-20 11:02:33,287:INFO:getting a list: end
+2021-01-20 11:02:33,287:INFO:loop to divide ppl in groups: start
+2021-01-20 11:02:33,288:INFO:GROUP #1 : [' Rayan', ' Farouk']
+2021-01-20 11:02:33,288:INFO:GROUP #2 : [' Jordan', ' Marwa']
+2021-01-20 11:02:33,288:INFO:GROUP #3 : [' Amin\n', ' Youssef']
+2021-01-20 11:02:33,288:INFO:GROUP #4 : ['Maria', ' Thibault']
+2021-01-20 11:02:33,288:INFO:GROUP #5 : [' Maxime', ' Souad']
+2021-01-20 11:02:33,288:INFO:GROUP #6 : [' Tiphaine', ' Jojo']
+2021-01-20 11:02:33,288:INFO:GROUP #7 : [' Carina']
+2021-01-20 11:03:43,190:INFO:getting text file: start
+2021-01-20 11:03:43,190:INFO:getting text file: end
+2021-01-20 11:03:43,190:INFO:getting a list: start
+2021-01-20 11:03:43,190:INFO:getting a list: end
+2021-01-20 11:03:43,190:INFO:loop to divide ppl in groups: start
+2021-01-20 11:03:43,190:INFO:GROUP #1 : [' Jordan', ' Amin\n']
+2021-01-20 11:03:43,190:INFO:GROUP #2 : [' Youssef', ' Maxime']
+2021-01-20 11:03:43,190:INFO:GROUP #3 : [' Farouk', ' Souad']
+2021-01-20 11:03:43,190:INFO:GROUP #4 : ['Maria', ' Thibault']
+2021-01-20 11:03:43,190:INFO:GROUP #5 : [' Carina', ' Rayan']
+2021-01-20 11:03:43,190:INFO:GROUP #6 : [' Tiphaine', ' Marwa']
+2021-01-20 11:03:43,190:INFO:GROUP #7 : [' Jojo']
+2021-01-20 11:04:55,398:INFO:getting text file: start
+2021-01-20 11:04:55,399:INFO:getting text file: end
+2021-01-20 11:04:55,399:INFO:getting a list: start
+2021-01-20 11:04:55,399:INFO:getting a list: end
+2021-01-20 11:04:55,399:INFO:loop to divide ppl in groups: start
+2021-01-20 11:04:55,399:INFO:GROUP #1 : [' Marwa', ' Tiphaine']
+2021-01-20 11:06:23,545:INFO:getting text file: start
+2021-01-20 11:06:23,545:INFO:getting text file: end
+2021-01-20 11:06:23,545:INFO:getting a list: start
+2021-01-20 11:06:23,545:INFO:getting a list: end
+2021-01-20 11:06:23,546:INFO:loop to divide ppl in groups: start
+2021-01-20 11:06:23,546:INFO:GROUP #1 : [' Amin\n', ' Souad']
+2021-01-20 11:06:23,546:INFO:GROUP #2 : [' Maxime', ' Jordan']
+2021-01-20 11:06:23,546:INFO:GROUP #3 : ['Maria', ' Farouk']
+2021-01-20 11:06:23,547:INFO:GROUP #4 : [' Thibault', ' Rayan']
+2021-01-20 11:06:23,547:INFO:GROUP #5 : [' Youssef', ' Tiphaine']
+2021-01-20 11:06:23,548:INFO:GROUP #6 : [' Jojo', ' Marwa']
+2021-01-20 11:06:23,548:INFO:GROUP #7 : [' Carina']
+2021-01-20 11:06:43,640:INFO:getting text file: start
+2021-01-20 11:06:43,641:INFO:getting text file: end
+2021-01-20 11:06:43,641:INFO:getting a list: start
+2021-01-20 11:06:43,641:INFO:getting a list: end
+2021-01-20 11:06:43,641:INFO:loop to divide ppl in groups: start
+2021-01-20 11:06:43,641:INFO:GROUP #1 : [' Youssef', ' Amin\n']
+2021-01-20 11:06:43,641:INFO:GROUP #2 : [' Rayan', ' Jojo']
+2021-01-20 11:07:33,155:INFO:getting text file: start
+2021-01-20 11:07:33,156:INFO:getting text file: end
+2021-01-20 11:07:33,156:INFO:getting a list: start
+2021-01-20 11:07:33,156:INFO:getting a list: end
+2021-01-20 11:07:33,156:INFO:loop to divide ppl in groups: start
+2021-01-20 11:07:33,156:INFO:GROUP #1 : [' Marwa', ' Rayan']
+2021-01-20 11:07:33,156:INFO:GROUP #2 : [' Thibault', ' Carina']
+2021-01-20 11:07:33,156:INFO:GROUP #3 : [' Souad', ' Amin\n']
+2021-01-20 11:07:33,156:INFO:GROUP #4 : [' Farouk', ' Jordan']
+2021-01-20 11:07:33,156:INFO:GROUP #5 : [' Youssef', ' Jojo']
+2021-01-20 11:07:33,156:INFO:GROUP #6 : ['Maria', ' Tiphaine']
+2021-01-20 11:07:33,156:INFO:GROUP #7 : [' Maxime']
+2021-01-20 11:07:33,157:INFO:loop to divide ppl in groups: end
+2021-01-20 11:08:00,084:INFO:getting text file: start
+2021-01-20 11:08:00,084:INFO:getting text file: end
+2021-01-20 11:08:00,084:INFO:getting a list: start
+2021-01-20 11:08:00,085:INFO:getting a list: end
+2021-01-20 11:08:19,009:INFO:getting text file: start
+2021-01-20 11:08:19,009:INFO:getting text file: end
+2021-01-20 11:08:19,009:INFO:getting a list: start
+2021-01-20 11:08:19,009:INFO:getting a list: end
+2021-01-20 11:08:19,009:INFO:loop to divide ppl in groups: start
+2021-01-20 11:08:19,010:INFO:GROUP #1 : [' Amin\n', ' Rayan']
+2021-01-20 11:08:19,010:INFO:GROUP #2 : [' Thibault', ' Maxime']
+2021-01-20 11:08:19,010:INFO:GROUP #3 : [' Marwa', ' Farouk']
+2021-01-20 11:08:19,010:INFO:GROUP #4 : ['Maria', ' Jojo']
+2021-01-20 11:08:19,010:INFO:GROUP #5 : [' Carina', ' Youssef']
+2021-01-20 11:08:19,010:INFO:GROUP #6 : [' Tiphaine', ' Souad']
+2021-01-20 11:08:19,010:INFO:GROUP #7 : [' Jordan']
+2021-01-20 11:08:19,010:INFO:loop to divide ppl in groups: end
+2021-01-20 11:09:30,275:INFO:getting text file: start
+2021-01-20 11:09:30,275:INFO:getting text file: end
+2021-01-20 11:09:30,275:INFO:getting a list: start
+2021-01-20 11:09:30,275:INFO:getting a list: end
+2021-01-20 11:09:30,275:INFO:loop to divide ppl in groups: start
+2021-01-20 11:09:30,275:INFO:GROUP #1 : [' Maxime', ' Jordan']
+2021-01-20 11:09:30,276:INFO:GROUP #2 : [' Jojo', ' Tiphaine']
+2021-01-20 11:09:30,276:INFO:GROUP #3 : [' Amin\n', ' Marwa']
+2021-01-20 11:09:30,276:INFO:GROUP #4 : [' Souad', ' Rayan']
+2021-01-20 11:09:30,276:INFO:GROUP #5 : [' Farouk', ' Thibault']
+2021-01-20 11:09:30,277:INFO:GROUP #6 : [' Carina', ' Youssef']
+2021-01-20 11:09:30,277:INFO:GROUP #7 : ['Maria']
+2021-01-20 11:09:30,277:INFO:loop to divide ppl in groups: end
+2021-01-20 11:10:30,813:INFO:getting text file: start
+2021-01-20 11:10:30,814:INFO:getting text file: end
+2021-01-20 11:10:30,814:INFO:getting a list: start
+2021-01-20 11:10:30,814:INFO:getting a list: end
+2021-01-20 11:10:30,814:INFO:loop to divide ppl in groups: start
+2021-01-20 11:10:30,814:INFO:GROUP #1 : ['Maria', ' Maxime']
+2021-01-20 11:10:30,814:INFO:GROUP #2 : [' Amin\n', ' Jojo']
+2021-01-20 11:10:30,814:INFO:GROUP #3 : [' Carina', ' Thibault']
+2021-01-20 11:10:30,815:INFO:GROUP #4 : [' Jordan', ' Marwa']
+2021-01-20 11:10:30,815:INFO:GROUP #5 : [' Youssef', ' Rayan']
+2021-01-20 11:10:30,816:INFO:GROUP #6 : [' Tiphaine', ' Souad']
+2021-01-20 11:10:30,816:INFO:GROUP #7 : [' Farouk']
+2021-01-20 11:10:30,817:INFO:loop to divide ppl in groups: end
+2021-01-20 11:11:40,743:INFO:getting text file: start
+2021-01-20 11:11:40,743:INFO:getting text file: end
+2021-01-20 11:11:40,743:INFO:getting a list: start
+2021-01-20 11:11:40,744:INFO:getting a list: end
+2021-01-20 11:11:40,744:INFO:loop to divide ppl in groups: start
+2021-01-20 11:11:40,744:INFO:GROUP #1 : [' Jordan', ' Carina']
+2021-01-20 11:11:40,744:INFO:GROUP #2 : [' Tiphaine', ' Youssef']
+2021-01-20 11:11:40,744:INFO:GROUP #3 : [' Amin\n', 'Maria']
+2021-01-20 11:11:40,744:INFO:GROUP #4 : [' Maxime', ' Jojo']
+2021-01-20 11:11:40,745:INFO:GROUP #5 : [' Farouk', ' Souad']
+2021-01-20 11:11:40,745:INFO:GROUP #6 : [' Thibault', ' Marwa']
+2021-01-20 11:11:40,745:INFO:GROUP #7 : [' Rayan']
+2021-01-20 11:12:00,280:INFO:getting text file: start
+2021-01-20 11:12:00,280:INFO:getting text file: end
+2021-01-20 11:12:00,280:INFO:getting a list: start
+2021-01-20 11:12:00,280:INFO:getting a list: end
+2021-01-20 11:12:16,984:INFO:getting text file: start
+2021-01-20 11:12:16,984:INFO:getting text file: end
+2021-01-20 11:12:16,984:INFO:getting a list: start
+2021-01-20 11:12:16,984:INFO:getting a list: end
+2021-01-20 11:12:16,984:INFO:loop to divide ppl in groups: start
+2021-01-20 11:12:16,984:INFO:GROUP #1 : [' Maxime', 'Maria']
+2021-01-20 11:12:16,985:INFO:GROUP #2 : [' Rayan', ' Souad']
+2021-01-20 11:12:16,985:INFO:GROUP #3 : [' Tiphaine', ' Youssef']
+2021-01-20 11:12:16,985:INFO:GROUP #4 : [' Thibault', ' Carina']
+2021-01-20 11:12:16,986:INFO:GROUP #5 : [' Jojo', ' Jordan']
+2021-01-20 11:12:16,986:INFO:GROUP #6 : [' Farouk', ' Marwa']
+2021-01-20 11:12:16,987:INFO:GROUP #7 : [' Amin\n']
+2021-01-20 11:12:16,987:INFO:loop to divide ppl in groups: end
+2021-01-20 11:12:38,240:INFO:getting text file: start
+2021-01-20 11:12:38,240:INFO:getting text file: end
+2021-01-20 11:12:38,240:INFO:getting a list: start
+2021-01-20 11:12:38,240:INFO:getting a list: end
+2021-01-20 11:12:38,240:INFO:loop to divide ppl in groups: start
+2021-01-20 11:12:38,241:INFO:GROUP #1 : [' Rayan', ' Tiphaine']
+2021-01-20 11:12:51,695:INFO:getting text file: start
+2021-01-20 11:12:51,695:INFO:getting text file: end
+2021-01-20 11:12:51,696:INFO:getting a list: start
+2021-01-20 11:12:51,696:INFO:getting a list: end
+2021-01-20 11:12:51,696:INFO:loop to divide ppl in groups: start
+2021-01-20 11:12:51,696:INFO:GROUP #1 : [' Maxime', ' Amin\n']
+2021-01-20 11:12:51,696:INFO:GROUP #2 : ['Maria', ' Rayan']
+2021-01-20 11:12:51,696:INFO:GROUP #3 : [' Jojo', ' Farouk']
+2021-01-20 11:12:51,697:INFO:GROUP #4 : [' Jordan', ' Thibault']
+2021-01-20 11:12:51,697:INFO:GROUP #5 : [' Youssef', ' Carina']
+2021-01-20 11:12:51,697:INFO:GROUP #6 : [' Souad', ' Tiphaine']
+2021-01-20 11:12:51,697:INFO:GROUP #7 : [' Marwa']
+2021-01-20 11:12:51,698:INFO:loop to divide ppl in groups: end
+2021-01-20 11:13:48,628:INFO:getting text file: start
+2021-01-20 11:13:48,628:INFO:getting text file: end
+2021-01-20 11:13:48,628:INFO:getting a list: start
+2021-01-20 11:13:48,628:INFO:getting a list: end
+2021-01-20 11:13:48,628:INFO:loop to divide ppl in groups: start
+2021-01-20 11:13:48,629:INFO:GROUP #1 : [' Jojo', ' Jordan']
+2021-01-20 11:13:48,629:INFO:GROUP #2 : [' Carina', ' Amin\n']
+2021-01-20 11:13:48,629:INFO:GROUP #3 : [' Souad', 'Maria']
+2021-01-20 11:13:48,629:INFO:GROUP #4 : [' Thibault', ' Maxime']
+2021-01-20 11:13:48,630:INFO:GROUP #5 : [' Rayan', ' Tiphaine']
+2021-01-20 11:13:48,630:INFO:GROUP #6 : [' Farouk', ' Marwa']
+2021-01-20 11:13:48,630:INFO:GROUP #7 : [' Youssef']
+2021-01-20 11:13:48,630:INFO:loop to divide ppl in groups: end
+2021-01-20 11:22:53,076:INFO:getting text file: start
+2021-01-20 11:22:53,076:INFO:getting text file: end
+2021-01-20 11:22:53,076:INFO:getting a list: start
+2021-01-20 11:22:53,076:INFO:getting a list: end
+2021-01-20 11:22:53,077:INFO:loop to divide ppl in groups: start
+2021-01-20 11:22:53,077:INFO:GROUP #1 : ['Maria', ' Farouk']
+2021-01-20 11:22:53,077:INFO:GROUP #2 : [' Carina', ' Youssef']
+2021-01-20 11:22:53,078:INFO:GROUP #3 : [' Tiphaine', ' Thibault']
+2021-01-20 11:22:53,078:INFO:GROUP #4 : [' Rayan', ' Maxime']
+2021-01-20 11:22:53,078:INFO:GROUP #5 : [' Amin\n', ' Marwa']
+2021-01-20 11:22:53,079:INFO:GROUP #6 : [' Jordan', ' Souad']
+2021-01-20 11:22:53,079:INFO:GROUP #7 : [' Jojo']
+2021-01-20 11:22:53,079:INFO:loop to divide ppl in groups: end
+2021-01-20 11:27:30,356:INFO:getting text file: start
+2021-01-20 11:27:30,356:INFO:getting text file: end
+2021-01-20 11:27:30,356:INFO:getting a list: start
+2021-01-20 11:27:30,357:INFO:getting a list: end
+2021-01-20 11:27:30,357:INFO:loop to divide ppl in groups: start
+2021-01-20 11:27:30,357:INFO:GROUP #1 : [' Thibault', ' Rayan']
+2021-01-20 11:27:30,357:INFO:GROUP #2 : [' Youssef', ' Farouk']
+2021-01-20 11:27:30,357:INFO:GROUP #3 : [' Amin\n', ' Jojo']
+2021-01-20 11:27:30,357:INFO:GROUP #4 : [' Tiphaine', 'Maria']
+2021-01-20 11:27:30,358:INFO:GROUP #5 : [' Jordan', ' Souad']
+2021-01-20 11:27:30,358:INFO:GROUP #6 : [' Maxime', ' Marwa']
+2021-01-20 11:27:30,358:INFO:GROUP #7 : [' Carina']
+2021-01-20 11:27:30,358:INFO:loop to divide ppl in groups: end
+2021-01-20 11:28:07,113:INFO:getting text file: start
+2021-01-20 11:28:07,113:INFO:getting text file: end
+2021-01-20 11:28:07,113:INFO:getting a list: start
+2021-01-20 11:28:07,113:INFO:getting a list: end
+2021-01-20 11:28:07,113:INFO:loop to divide ppl in groups: start
+2021-01-20 11:28:07,113:INFO:GROUP #1 : [' Maxime', ' Amin\n']
+2021-01-20 11:28:07,113:INFO:GROUP #2 : [' Souad', ' Thibault']
+2021-01-20 11:28:07,113:INFO:GROUP #3 : [' Rayan', ' Jordan']
+2021-01-20 11:28:07,113:INFO:GROUP #4 : ['Maria', ' Youssef']
+2021-01-20 11:28:07,113:INFO:GROUP #5 : [' Tiphaine', ' Marwa']
+2021-01-20 11:28:07,113:INFO:GROUP #6 : [' Carina', ' Jojo']
+2021-01-20 11:28:07,114:INFO:GROUP #7 : [' Farouk']
+2021-01-20 11:28:07,114:INFO:loop to divide ppl in groups: end
+2021-01-20 11:28:40,939:INFO:getting text file: start
+2021-01-20 11:28:40,939:INFO:getting text file: end
+2021-01-20 11:28:40,939:INFO:getting a list: start
+2021-01-20 11:28:40,939:INFO:getting a list: end
+2021-01-20 11:28:40,939:INFO:loop to divide ppl in groups: start
+2021-01-20 11:28:40,939:INFO:GROUP #1 : [' Jordan', ' Thibault']
+2021-01-20 11:28:40,939:INFO:GROUP #2 : [' Souad', ' Rayan']
+2021-01-20 11:28:40,939:INFO:GROUP #3 : [' Farouk', ' Jojo']
+2021-01-20 11:28:40,939:INFO:GROUP #4 : [' Marwa', ' Maxime']
+2021-01-20 11:28:40,940:INFO:GROUP #5 : ['Maria', ' Tiphaine']
+2021-01-20 11:28:40,940:INFO:GROUP #6 : [' Amin\n', ' Youssef']
+2021-01-20 11:28:40,940:INFO:GROUP #7 : [' Carina']
+2021-01-20 11:28:40,940:INFO:loop to divide ppl in groups: end
+2021-01-20 11:42:50,366:INFO:getting text file: start
+2021-01-20 11:42:50,370:INFO:getting text file: end
+2021-01-20 11:42:50,370:INFO:getting a list: start
+2021-01-20 11:42:50,370:INFO:getting a list: end
+2021-01-20 11:42:50,370:INFO:loop to divide ppl in groups: start
+2021-01-20 11:42:50,370:INFO:GROUP #1 : [' Souad', ' Amin\n']
+2021-01-20 11:42:50,371:INFO:GROUP #2 : [' Farouk', ' Maxime']
+2021-01-20 11:42:50,371:INFO:GROUP #3 : ['Maria', ' Youssef']
+2021-01-20 11:42:50,371:INFO:GROUP #4 : [' Rayan', ' Tiphaine']
+2021-01-20 11:42:50,371:INFO:GROUP #5 : [' Jojo', ' Marwa']
+2021-01-20 11:42:50,371:INFO:GROUP #6 : [' Thibault', ' Jordan']
+2021-01-20 11:42:50,371:INFO:GROUP #7 : [' Carina']
+2021-01-20 11:42:50,371:INFO:loop to divide ppl in groups: end
+2021-01-20 11:43:15,297:INFO:getting text file: start
+2021-01-20 11:43:15,297:INFO:getting text file: end
+2021-01-20 11:43:15,297:INFO:getting a list: start
+2021-01-20 11:43:15,298:INFO:getting a list: end
+2021-01-20 11:43:15,298:INFO:loop to divide ppl in groups: start
+2021-01-20 11:43:15,298:INFO:GROUP #1 : [' Jojo', ' Jordan']
+2021-01-20 11:43:15,298:INFO:GROUP #2 : [' Carina', ' Souad']
+2021-01-20 11:43:15,298:INFO:GROUP #3 : [' Youssef', ' Marwa']
+2021-01-20 11:43:15,298:INFO:GROUP #4 : ['Maria', ' Tiphaine']
+2021-01-20 11:43:15,298:INFO:GROUP #5 : [' Thibault', ' Rayan']
+2021-01-20 11:43:15,298:INFO:GROUP #6 : [' Amin\n', ' Farouk']
+2021-01-20 11:43:15,298:INFO:GROUP #7 : [' Maxime']
+2021-01-20 11:43:15,298:INFO:loop to divide ppl in groups: end
+2021-01-20 11:48:34,332:INFO:getting text file: start
+2021-01-20 11:48:34,332:INFO:getting text file: end
+2021-01-20 11:48:34,332:INFO:getting a list: start
+2021-01-20 11:48:34,332:INFO:getting a list: end
+2021-01-20 11:48:34,333:INFO:loop to divide ppl in groups: start
+2021-01-20 11:48:34,333:INFO:GROUP #1 : [' Souad', ' Amin\n']
+2021-01-20 11:48:34,333:INFO:GROUP #2 : [' Thibault', ' Marwa']
+2021-01-20 11:48:34,333:INFO:GROUP #3 : ['Maria', ' Farouk']
+2021-01-20 11:48:34,333:INFO:GROUP #4 : [' Maxime', ' Rayan']
+2021-01-20 11:48:34,334:INFO:GROUP #5 : [' Youssef', ' Tiphaine']
+2021-01-20 11:48:34,334:INFO:GROUP #6 : [' Jojo', ' Carina']
+2021-01-20 11:48:34,334:INFO:GROUP #7 : [' Jordan']
+2021-01-20 11:48:34,334:INFO:loop to divide ppl in groups: end
+2021-01-20 11:51:33,292:INFO:getting text file: start
+2021-01-20 11:51:33,292:INFO:getting text file: end
+2021-01-20 11:51:33,292:INFO:getting a list: start
+2021-01-20 11:51:33,292:INFO:getting a list: end
+2021-01-20 11:51:33,292:INFO:loop to divide ppl in groups: start
+2021-01-20 11:51:33,292:INFO:GROUP #1 : [' Jojo', ' Jordan']
+2021-01-20 11:52:28,255:INFO:getting text file: start
+2021-01-20 11:52:28,256:INFO:getting text file: end
+2021-01-20 11:52:28,256:INFO:getting a list: start
+2021-01-20 11:52:28,256:INFO:getting a list: end
+2021-01-20 11:52:28,256:INFO:loop to divide ppl in groups: start
+2021-01-20 11:52:28,256:INFO:GROUP #1 : [' Youssef', ' Thibault']
+2021-01-20 11:53:18,916:INFO:getting text file: start
+2021-01-20 11:53:18,916:INFO:getting text file: end
+2021-01-20 11:53:18,916:INFO:getting a list: start
+2021-01-20 11:53:18,916:INFO:getting a list: end
+2021-01-20 11:53:18,916:INFO:loop to divide ppl in groups: start
+2021-01-20 11:53:18,916:INFO:GROUP #1 : [' Souad', ' Carina']
+2021-01-20 11:53:18,917:INFO:GROUP #2 : [' Tiphaine', ' Amin\n']
+2021-01-20 11:53:18,917:INFO:GROUP #3 : [' Farouk', 'Maria']
+2021-01-20 11:53:18,918:INFO:GROUP #4 : [' Jordan', ' Youssef']
+2021-01-20 11:53:18,919:INFO:GROUP #5 : [' Marwa', ' Rayan']
+2021-01-20 11:53:18,920:INFO:GROUP #6 : [' Thibault', ' Maxime']
+2021-01-20 11:53:18,921:INFO:GROUP #7 : [' Jojo']
+2021-01-20 11:53:18,922:INFO:loop to divide ppl in groups: end
+2021-01-20 11:53:54,766:INFO:getting text file: start
+2021-01-20 11:53:54,767:INFO:getting text file: end
+2021-01-20 11:53:54,767:INFO:getting a list: start
+2021-01-20 11:53:54,767:INFO:getting a list: end
+2021-01-20 11:53:54,767:INFO:loop to divide ppl in groups: start
+2021-01-20 11:53:54,767:INFO:GROUP #1 : [' Carina', ' Souad']
+2021-01-20 11:53:54,767:INFO:GROUP #2 : [' Thibault', 'Maria']
+2021-01-20 11:53:54,768:INFO:GROUP #3 : [' Amin\n', ' Maxime']
+2021-01-20 11:53:54,768:INFO:GROUP #4 : [' Farouk', ' Youssef']
+2021-01-20 11:53:54,768:INFO:GROUP #5 : [' Jojo', ' Tiphaine']
+2021-01-20 11:53:54,768:INFO:GROUP #6 : [' Jordan', ' Rayan']
+2021-01-20 11:53:54,768:INFO:GROUP #7 : [' Marwa']
+2021-01-20 11:53:54,768:INFO:loop to divide ppl in groups: end
+2021-01-20 11:54:55,448:INFO:getting text file: start
+2021-01-20 11:54:55,448:INFO:getting text file: end
+2021-01-20 11:54:55,448:INFO:getting a list: start
+2021-01-20 11:54:55,448:INFO:getting a list: end
+2021-01-20 11:54:55,448:INFO:loop to divide ppl in groups: start
+2021-01-20 11:54:55,448:INFO:GROUP #1 : [' Tiphaine', ' Souad']
+2021-01-20 11:54:55,449:INFO:GROUP #2 : [' Rayan', ' Amin\n']
+2021-01-20 11:54:55,449:INFO:GROUP #3 : [' Youssef', ' Thibault']
+2021-01-20 11:54:55,451:INFO:GROUP #4 : [' Jojo', 'Maria']
+2021-01-20 11:54:55,452:INFO:GROUP #5 : [' Maxime', ' Carina']
+2021-01-20 11:54:55,452:INFO:GROUP #6 : [' Farouk', ' Jordan']
+2021-01-20 11:54:55,452:INFO:GROUP #7 : [' Marwa']
+2021-01-20 11:54:55,453:INFO:loop to divide ppl in groups: end
+2021-01-20 11:56:29,147:INFO:getting text file: start
+2021-01-20 11:56:29,148:INFO:getting text file: end
+2021-01-20 11:56:29,148:INFO:getting a list: start
+2021-01-20 11:56:29,148:INFO:getting a list: end
+2021-01-20 11:56:29,148:INFO:loop to divide ppl in groups: start
+2021-01-20 11:56:57,077:INFO:getting text file: start
+2021-01-20 11:56:57,077:INFO:getting text file: end
+2021-01-20 11:56:57,077:INFO:getting a list: start
+2021-01-20 11:56:57,077:INFO:getting a list: end
+2021-01-20 11:56:57,078:INFO:loop to divide ppl in groups: start
+2021-01-20 11:56:57,078:INFO:GROUP #1 : [' Maxime', ' Thibault']
+2021-01-20 11:56:57,078:INFO:GROUP #2 : [' Farouk', ' Souad']
+2021-01-20 11:56:57,078:INFO:GROUP #3 : [' Jojo', ' Jordan']
+2021-01-20 11:56:57,078:INFO:GROUP #4 : [' Youssef', ' Amin\n']
+2021-01-20 11:56:57,078:INFO:GROUP #5 : [' Carina', ' Tiphaine']
+2021-01-20 11:56:57,078:INFO:GROUP #6 : [' Rayan', 'Maria']
+2021-01-20 11:56:57,079:INFO:GROUP #7 : [' Marwa']
+2021-01-20 11:56:57,079:INFO:loop to divide ppl in groups: end
+2021-01-20 12:14:13,429:INFO:getting text file: start
+2021-01-20 12:14:13,433:INFO:getting text file: end
+2021-01-20 12:14:13,433:INFO:getting a list: start
+2021-01-20 12:14:13,433:INFO:getting a list: end
+2021-01-20 12:14:13,433:INFO:loop to divide ppl in groups: start
+2021-01-20 12:14:13,434:INFO:GROUP #1 : [' Farouk', ' Thibault']
+2021-01-20 12:14:13,434:INFO:GROUP #2 : ['Maria', ' Marwa']
+2021-01-20 12:14:13,434:INFO:GROUP #3 : [' Carina', ' Jojo']
+2021-01-20 12:14:13,434:INFO:GROUP #4 : [' Jordan', ' Youssef']
+2021-01-20 12:14:13,434:INFO:GROUP #5 : [' Tiphaine', ' Souad']
+2021-01-20 12:14:13,434:INFO:GROUP #6 : [' Maxime', ' Rayan']
+2021-01-20 12:14:13,434:INFO:GROUP #7 : [' Amin\n']
+2021-01-20 12:14:13,435:INFO:loop to divide ppl in groups: end

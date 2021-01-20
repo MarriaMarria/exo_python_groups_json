@@ -1,0 +1,1 @@
+Group 1: [' Farouk', ' Thibault'] Group 2: ['Maria', ' Marwa'] Group 3: [' Carina', ' Jojo'] Group 4: [' Jordan', ' Youssef'] Group 5: [' Tiphaine', ' Souad'] Group 6: [' Maxime', ' Rayan'] Group 7: [] 
